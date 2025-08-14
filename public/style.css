@@ -1,0 +1,16 @@
+/* style.css - styling global DSROIT */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom right, #0d2a3f, #1b4965, #3282b8);
+  color: white;
+}
+
+a {
+  color: #46a5e0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
